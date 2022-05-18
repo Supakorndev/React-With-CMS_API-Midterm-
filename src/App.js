@@ -8,6 +8,7 @@ import { Routes, Route, Link } from "react-router-dom";
 import { Navbar, Container, Nav } from "react-bootstrap";
 
 function App() {
+  // ชิบะเก่งมาก
   return (
     <>
       <Navbar bg="dark" variant="dark">
