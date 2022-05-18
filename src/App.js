@@ -14,7 +14,7 @@ function App() {
         <Container>
           <Navbar.Brand href="#home">KMITL X IT</Navbar.Brand>
           <Nav className="me-auto">
-            <Link to="/"><Nav.Link href="#home">Home</Nav.Link></Link>
+            <Link to="/"><Nav.Link href="#home">Test จ้า</Nav.Link></Link>
             <Link to="/Categories"><Nav.Link href="#features">Categories</Nav.Link></Link>
             <Link to="/Author"><Nav.Link href="#features">Author</Nav.Link></Link>
           </Nav>
